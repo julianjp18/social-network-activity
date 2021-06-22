@@ -1,0 +1,16 @@
+.post-list-container {
+  padding: 20px;
+}
+
+.post-list-container .button-container {
+  text-align: center;
+}
+
+.comments-container {
+  margin: auto;
+}
+
+.ant-menu-root {
+  position: fixed;
+  width: 23%;
+}

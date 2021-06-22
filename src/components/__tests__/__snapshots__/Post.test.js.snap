@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Posts component tests renders correctly 1`] = `
+<List
+  footer={
+    <div>
+      Made by 
+      <b>
+        Julian Perez
+      </b>
+       for Patagonian
+    </div>
+  }
+  itemLayout="vertical"
+  pagination={
+    Object {
+      "onChange": [Function],
+      "pageSize": 5,
+    }
+  }
+  renderItem={[Function]}
+  size="large"
+/>
+`;
